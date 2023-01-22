@@ -12,7 +12,7 @@
 <head>
     <meta charset="UTF-8">
     <title>Авторизация</title>
-    <link rel="stylesheet" href="styles/auth.css">
+    <link rel="stylesheet" href="auth.css">
 </head>
 <body>
     <!--Форма авторизации -->
